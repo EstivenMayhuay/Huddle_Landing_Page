@@ -509,10 +509,6 @@ p, span, li, button{
     justify-content: center;
   }
 
-  [class*="list-"] {
-    /*outline: 2px solid blue;*/
-  }
-
   .list-1 {
     margin: 0 calc(24px * 3) 0 0;
   }

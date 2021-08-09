@@ -1,12 +1,12 @@
-# Challenges Huddle Lading Page 
+# Challenges Huddle Lading Page
 
 ![logo](./images/logo.svg)
 
-This challenges is based in create a landing page with pure css.
+This challenges of Frontend Mentor is based in create a landing page with pure CSS.
 
 ## Link Site
 
-- 
+- [https://estivenm99.github.io/Huddle_Landing_Page/](https://estivenm99.github.io/Huddle_Landing_Page/)
 
 ## Views
 
