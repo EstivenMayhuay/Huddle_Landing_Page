@@ -6,7 +6,7 @@ This challenges of Frontend Mentor is based in create a landing page with pure C
 
 ## Link Site
 
-- [https://estivenm99.github.io/Huddle_Landing_Page/](https://estivenm99.github.io/Huddle_Landing_Page/)
+- [https://estivenmayhuay.github.io/Huddle_Landing_Page/](https://estivenmayhuay.github.io/Huddle_Landing_Page/)
 
 ## Views
 
